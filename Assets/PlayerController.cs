@@ -13,7 +13,7 @@ public class PlayerController : NetworkBehaviour
     {
         if (HasStateAuthority) // Nur der lokale Spieler setzt sein XR Rig
         {
-            Debug.Log("XR Rig wird mit dem PlayerPrefab verknüpft...");
+            Debug.Log("XR Rig wird mit dem PlayerPrefab verknÃ¼pft...");
 
             XROrigin xrOrigin = FindObjectOfType<XROrigin>();
             if (xrOrigin != null)
