@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Lobby.unity
+    guid: ef36ee053bd384c7f8ba4baaca8f342c
   - enabled: 1
     path: Assets/Scenes/Theklas_Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
